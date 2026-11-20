@@ -91,8 +91,8 @@ Point any MCP client at the URL and authenticate with the same API key (`Authori
 
 ## Listings
 
-- **Factor Data** — [MCP Yellow Page](https://mcpyp.com/mcp/com.oooooasis/factor-data) · [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.oooooasis-fds%2Ffactor-data/versions/latest) · [MCP Try](https://mcptry.com/servers/io.github.oooooasis-fds/factor-data)
-- **TSX Data** — [MCP Yellow Page](https://mcpyp.com/mcp/com.oooooasis/tsx-data) · [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.oooooasis-fds%2Ftsx-data/versions/latest) · [MCP Try](https://mcptry.com/servers/io.github.oooooasis-fds/tsx-data)
+- **Factor Data** — [MCP Yellow Page](https://mcpyp.com/mcp/com.oooooasis/factor-data)
+- **TSX Data** — [MCP Yellow Page](https://mcpyp.com/mcp/com.oooooasis/tsx-data)
 
 ## Data notes
 
