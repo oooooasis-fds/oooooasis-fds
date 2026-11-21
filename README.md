@@ -81,8 +81,8 @@ Both services also speak [Model Context Protocol](https://modelcontextprotocol.i
 
 | Server | URL |
 |---|---|
-| Factor MCP | `https://mcp.oooooasis.com/fct/mcp` |
-| TSX MCP | `https://mcp.oooooasis.com/tsx/mcp` |
+| Factor MCP | `https://mcp.oooooasis.com/fct` |
+| TSX MCP | `https://mcp.oooooasis.com/tsx` |
 
 Point any MCP client at the URL and authenticate with the same API key (`Authorization: Bearer <your key>`). While paid tiers are not on sale, only these tools are listed and callable — the rest appear when paid access opens:
 
