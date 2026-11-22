@@ -1,4 +1,4 @@
-# oooooasis — Market Data Services
+# ooooOasis — Market Data Services
 
 Two public data services for North American equities, available as **REST APIs** and as **MCP servers** (so AI agents and tools can query them directly):
 
@@ -108,4 +108,4 @@ Point any MCP client at the URL and authenticate with the same API key (`Authori
 
 ---
 
-*oooooasis is the data & services arm of a broader research company. This account publishes the public documentation and examples for the two services above.*
+*ooooOasis is the data & services arm of a broader research company. This account publishes the public documentation and examples for the two services above.*
